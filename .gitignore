@@ -1,0 +1,13 @@
+custom.el
+elpa
+/.texlive2017/**
+/.emacs.d/custom/**
+**~
+/.config/**
+/.emacs.d/#ido.last#
+/.emacs.d/.emacs.desktop
+/.emacs.d/bookmarks
+/.emacs.d/history
+/.emacs.d/ido.last
+/.texlive2020/**
+/.emacs.d/transient/history.el
